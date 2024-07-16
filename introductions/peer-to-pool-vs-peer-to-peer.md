@@ -10,6 +10,8 @@ description: peer-to-pool compared to peer-to-peer lending
 |               | repay the loan anytime you want                       |                                                                    |
 |               | lower interests rate                                  |                                                                    |
 |               | more friendly for whales                              |                                                                    |
+|               | claim airdrop assets instantly                        |                                                                    |
+|               | proof ownership while borrowing money                 |                                                                    |
 |               |                                                       |                                                                    |
 | lenders       | get interests instantly                               | need to wait more deposits if want to withdraw money when bank run |
 |               | withdraw anytime if pool balance is enough            |                                                                    |
