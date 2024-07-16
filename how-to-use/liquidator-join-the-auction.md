@@ -1,0 +1,2 @@
+# Liquidator join the auction
+
