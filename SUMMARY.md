@@ -5,7 +5,15 @@
 * [Overview](README.md)
 * [Why Bitty?](introductions/why.md)
 * [What is peer-to-pool lending?](introductions/what-is-peer-to-pool-lending.md)
-* [peer-to-pool VS peer-to-peer](introductions/peer-to-pool-vs-peer-to-peer.md)
+
+## Pros of the peer-to-pool
+* [Borrow money instantly](pros/borrow-instantly.md)
+* [Repay money anytime](pros/repay-anytime.md)
+* [Interests lower](pros/interests-lower.md)
+* [Batch borrow in one tx](pros/batch-borrow.md)
+* [Claim airdrops in loans](pros/claim-airdrops-in-loan.md)
+* [Proof of Ownership](pros/proof-of-ownership.md)
+* [24-hours-liquidation-protection](pros/liquidation-protection.md)
 
 ## Technical details
 
@@ -24,6 +32,11 @@
 * [Liquidator trigger liquidation](how-to-use/liquidator-trigger-liquidation.md)
 * [Liquidator join the auction](how-to-use/liquidator-join-the-auction.md)
 * [Auction winner get the collateral](how-to-use/auction-winner-get-the-collateral.md)
+
+## Risk
+
+* [liquidation](risk/liquidation.md)
+* [bankrun](risk/bankrun.md)
 
 ## FAQ
 
