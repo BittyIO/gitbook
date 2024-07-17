@@ -51,4 +51,4 @@
 
 ***
 
-* [Community Discord](https://discord.com/invite/bitty\_io)
+* [Community Discord](http://discord.bitty.io)
