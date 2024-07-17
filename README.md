@@ -1,6 +1,6 @@
 # Overview
 
-This is the overview of [Bitty](https://bitty.io).
+Welcome to [Bitty](https://bitty.io).
 
 * If you are new to lending, learn what is [peer-to-pool-lending](introductions/what-is-peer-to-pool-lending.md) is a good start.
 * If you want to know how to use the product, [user guides](broken-reference) are what you need.
