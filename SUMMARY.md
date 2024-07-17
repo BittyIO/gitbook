@@ -3,7 +3,7 @@
 ## Introductions
 
 * [Overview](README.md)
-* [Why Bitty?](<README (1).md>)
+* [Why Bitty?](introductions/why.md)
 * [What is peer-to-pool lending?](introductions/what-is-peer-to-pool-lending.md)
 * [peer-to-pool VS peer-to-peer](introductions/peer-to-pool-vs-peer-to-peer.md)
 
