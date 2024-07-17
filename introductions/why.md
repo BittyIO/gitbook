@@ -1,7 +1,3 @@
----
-description: Why we want to start bitty.io
----
-
 # Why Bitty?
 
 We want to build the best lending service for lenders & borrowers in web3, that's why we start bitty on bitcoin.
