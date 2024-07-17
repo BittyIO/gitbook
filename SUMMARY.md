@@ -6,7 +6,7 @@
 * [Why Bitty?](introductions/why.md)
 * [What is peer-to-pool lending?](introductions/what-is-peer-to-pool-lending.md)
 
-## Pros of the peer-to-pool
+## Pros for borrower
 * [Borrow money instantly](pros/borrow-instantly.md)
 * [Repay money anytime](pros/repay-anytime.md)
 * [Interests lower](pros/interests-lower.md)
@@ -14,6 +14,10 @@
 * [Claim airdrops in loans](pros/claim-airdrops-in-loan.md)
 * [Proof of Ownership](pros/proof-of-ownership.md)
 * [24-hours-liquidation-protection](pros/liquidation-protection.md)
+
+## Pros for lender
+* [Get interests instantly](pros/interests-instantly.md)
+* [withdraw money anytime](pros/withdraw-anytime.md)
 
 ## Technical details
 
