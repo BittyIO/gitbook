@@ -17,7 +17,7 @@
 
 ## Pros for lender
 * [Get interests instantly](pros/interests-instantly.md)
-* [withdraw money anytime](pros/withdraw-anytime.md)
+* [Withdraw money anytime](pros/withdraw-anytime.md)
 
 ## Technical details
 
@@ -39,8 +39,8 @@
 
 ## Risk
 
-* [liquidation](risk/liquidation.md)
-* [bankrun](risk/bankrun.md)
+* [Liquidation](risk/liquidation.md)
+* [Bankrun](risk/bankrun.md)
 
 ## FAQ
 
