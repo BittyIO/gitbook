@@ -1,0 +1,2 @@
+# Collaterals get auctioned
+
