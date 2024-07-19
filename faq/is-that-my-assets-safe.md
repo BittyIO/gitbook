@@ -10,7 +10,7 @@ So, we need to answer two key question:
   * The reputation history of the team better be good enough
 * How the platform manage the platform part of multi-sig?
   * using MPC service to manage the keys
-  * using [AWS AEE](https://aws.amazon.com/ec2/nitro/nitro-enclaves/) to manage the keys
+  * using [AWS ANE](https://aws.amazon.com/ec2/nitro/nitro-enclaves/) to manage the keys
 
 How bitty make sure the multi-sig keys are safe:
 
