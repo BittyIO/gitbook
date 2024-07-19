@@ -31,6 +31,7 @@
     * [Offer higher auction bid](user-guides/liquidator/liquidator-join-the-auction.md)
     * [Get the collateral as auction winer](user-guides/liquidator/auction-winner-get-the-collateral.md)
 * [Risk](risk/README.md)
+  * [Platform](risk/platform.md)
   * [Borrower](risk/liquidation/README.md)
     * [Collaterals liquidation](risk/liquidation/collaterals-liquidation.md)
   * [Lender](risk/bankrun/README.md)
