@@ -16,7 +16,7 @@
   * [Pros for lender](introduction/pros-for-lender/README.md)
     * [Get interests instantly](introduction/pros-for-lender/interests-instantly.md)
     * [Withdraw money anytime](introduction/pros-for-lender/withdraw-anytime.md)
-    * [Get protected from defaulted](readme/pros-for-lender/get-protected-from-defaulted.md)
+    * [Get protected from defaulting](readme/pros-for-lender/get-protected-from-defaulting.md)
 * [User guides](user-guides/README.md)
   * [Borrower](user-guides/borrower/README.md)
     * [Borrow money](user-guides/borrower/borrower-borrow-money.md)
