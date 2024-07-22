@@ -12,7 +12,7 @@
     * [Claim airdrops in loans](introduction/pros-for-borrower/claim-airdrops-in-loan.md)
     * [Proof of Ownership](introduction/pros-for-borrower/proof-of-ownership.md)
     * [24-hours-liquidation-protection](introduction/pros-for-borrower/liquidation-protection.md)
-    * [Collaterals get auctioned](introduction/pros-for-borrower/collaterals-get-auctioned.md)
+    * [Get value from liquidation (ordinals)](introduction/pros-for-borrower/collaterals-get-auctioned.md)
   * [Pros for lender](introduction/pros-for-lender/README.md)
     * [Get interests instantly](introduction/pros-for-lender/interests-instantly.md)
     * [Withdraw money anytime](introduction/pros-for-lender/withdraw-anytime.md)
