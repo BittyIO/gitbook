@@ -11,7 +11,7 @@
     * [Batch borrows in one transaction](introduction/pros-for-borrower/batch-borrow.md)
     * [Claim airdrops in loans](introduction/pros-for-borrower/claim-airdrops-in-loan.md)
     * [Proof of Ownership](introduction/pros-for-borrower/proof-of-ownership.md)
-    * [24-hours-liquidation-protection](introduction/pros-for-borrower/liquidation-protection.md)
+    * [24-hours-liquidation-protection (ordinals)](introduction/pros-for-borrower/liquidation-protection.md)
     * [Get value from liquidation (ordinals)](introduction/pros-for-borrower/collaterals-get-auctioned.md)
   * [Pros for lender](introduction/pros-for-lender/README.md)
     * [Get interests instantly](introduction/pros-for-lender/interests-instantly.md)
