@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
   * [Why Bitty?](introduction/why.md)
-  * [What is peer-to-pool lending?](introduction/what-is-peer-to-pool-lending.md)
   * [Pros for borrower](introduction/pros-for-borrower/README.md)
     * [Borrow money instantly](introduction/pros-for-borrower/borrow-money-instantly.md)
     * [Repay money anytime](introduction/pros-for-borrower/repay-anytime.md)
