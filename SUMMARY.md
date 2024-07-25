@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [Overview](introduction/readme.md)
   * [Why Bitty?](introduction/why.md)
   * [What is peer-to-pool lending?](introduction/what-is-peer-to-pool-lending.md)
   * [Pros for borrower](introduction/pros-for-borrower/README.md)
