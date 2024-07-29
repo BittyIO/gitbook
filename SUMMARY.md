@@ -38,7 +38,6 @@
   * [Liquidator](risk/liquidator/README.md)
     * [Auction failed](risk/liquidator/auction-failed.md)
 * [FAQ](faq/README.md)
-  * [Will Bitty provide Runes/BRC20 assets lending in the future?](faq/will-bitty-provide-runes-brc20-assets-lending-in-the-future.md)
   * [How to implements pool lending without smart contract?](faq/how-to-implements-pool-lending-without-smart-contract.md)
   * [Is that my assets safe?](faq/is-that-my-assets-safe.md)
 * [Community Discord](http://discord.bitty.io)
