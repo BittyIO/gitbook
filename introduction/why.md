@@ -2,7 +2,7 @@
 
 On Ethereum, FT users use peer-to-pool service like aave, compound to borrow money, NFT users use peer-to-pool service like BendDAO.
 
-While bitcoiners have liquidium as peer-to-peer service, we want to complete the last lego for bitcoin ecosystem, peer-to-pool lending service for on bitcoin, that's why we start bitty, trying to provide the best lending service on bitcoin for ordinals, BRC20 & Runes assets holders.
+While bitcoiners can use liquidium as peer-to-peer service, we want to complete the last lego for bitcoin ecosystem, peer-to-pool lending service for on bitcoin, that's why we start bitty, trying to provide the best lending service on bitcoin for ordinals, BRC20 & Runes assets holders.
 
 **What is peer-to-pool lending**
 
