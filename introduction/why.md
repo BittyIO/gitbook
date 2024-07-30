@@ -1,8 +1,8 @@
 # Why Bitty?
 
-On Ethereum, FT users use peer-to-pool service like aave, compound to borrow money, NFT users use peer-to-pool service like BendDAO.
+On Ethereum, FT users use peer-to-pool service like AAVE, Compound to borrow money, NFT users use peer-to-pool service like BendDAO.
 
-While bitcoiners can use liquidium as peer-to-peer service, we want to complete the last lego for bitcoin ecosystem, peer-to-pool lending service for on bitcoin, that's why we start bitty, trying to provide the best lending service on bitcoin for ordinals, BRC20 & Runes assets holders.
+While bitcoiner can use Liquidium as peer-to-peer service, we want to complete the last lego for bitcoin ecosystem, peer-to-pool lending service for on bitcoin, that's why we start bitty, trying to provide the best lending service on bitcoin for ordinals, BRC20 & Runes assets holders, which will be a bitcoin all-in-one lending service.
 
 **What is peer-to-pool lending**
 
@@ -12,9 +12,9 @@ Suppliers provide liquidity to the market by the product to earn interests, whil
 
 **Why peer-to-pool lending**
 
-While in the early age of a market, people using peer-to-peer service like what [aave](https://aave.com) was ETHLending before, and what [NFTFi](https://nftfi.com) was for NFT, after the assets become more stable like bitcoin, Ethereum, CryptoPunks, BAYC, the more efficient lending service is required by the market to let borrowers can get loan instantly and make suppliers and liquidators work as different roles.&#x20;
+While in the early age of a market, people using peer-to-peer service like what AAVE was ETHLend before, and what NFTFi was for NFT, after the assets become more stable like bitcoin, Ethereum, CryptoPunks, BAYC, the more efficient lending service is required by the market to let borrowers can get loan instantly and make suppliers and liquidators work as different roles.&#x20;
 
-That's why we see protocol like aave, compound are dominating the lending business.
+That's why we see protocol like AAVE, Compound are dominating the lending business.
 
 **How peer-to-pool lending win the market**
 
