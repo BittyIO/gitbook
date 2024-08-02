@@ -32,6 +32,7 @@
 * [Risk](risk/README.md)
   * [Platform](risk/platform.md)
   * [Borrower](risk/liquidation/README.md)
+    * [Oracle risk](risk/liquidation/oracle-risk.md)
     * [Collaterals liquidation](risk/liquidation/collaterals-liquidation.md)
   * [Lender](risk/bankrun/README.md)
     * [Bank run](risk/bankrun/bank-run.md)
