@@ -1,6 +1,6 @@
-# Oracle risk
+# Oracle manipulation
 
-We use centralized exchange like Binance & decentralized exchange platform like MagicEden for BRC20/Runes & Ordinals.
+We use price data from centralized exchange like Binance & decentralized exchange platform like MagicEden for BRC20/Runes & Ordinals.
 
 Our oracle algorithm is not exposed, and before any decentralized service like chainlink to have a stable oracle service on Bitcoin, we will keep the oracle maintained by bitty for taking responsibility of our users.
 
