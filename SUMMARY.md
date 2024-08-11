@@ -9,7 +9,7 @@
     * [Batch borrows in one transaction](introduction/pros-for-borrower/batch-borrow.md)
     * [Claim airdrops in loans (Ordinals)](introduction/pros-for-borrower/claim-airdrops-in-loan.md)
     * [Proof of Ownership (ordinals)](introduction/pros-for-borrower/proof-of-ownership.md)
-    * [144 blocks-liquidation-protection (ordinals)](introduction/pros-for-borrower/liquidation-protection.md)
+    * [144 blocks-auction-protection (ordinals)](introduction/pros-for-borrower/liquidation-protection.md)
     * [Get value from liquidation (ordinals)](introduction/pros-for-borrower/collaterals-get-auctioned.md)
   * [Pros for lender](introduction/pros-for-lender/README.md)
     * [Get interests instantly](introduction/pros-for-lender/interests-instantly.md)
