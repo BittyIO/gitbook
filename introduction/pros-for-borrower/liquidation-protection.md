@@ -10,3 +10,5 @@ For example:
 * Alice borrow 0.1btc from Bitty by 50% of the floor price 0.2btc
 * Alice forget to repay the loan before the NodeMonke get auctioned because she was too busy
 * Alice repay some BTC and 0.005btc(5% of the debt) to end the auction, keeping her NodeMonke health factor > 1.5
+
+**The auction protection is not working in the** [**+3 block**](../../faq/what-is-144-+-3-blocks-ordinals-auction.md)**, which means the ordinals owner can only end the auction in 144 blocks.**

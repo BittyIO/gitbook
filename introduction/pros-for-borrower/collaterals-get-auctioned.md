@@ -1,6 +1,6 @@
 # Get value from auction (ordinals)
 
-If your ordinals get liquidated, it's fully on-chain auction for 144 + 3 blocks, the highest bid win the auction and you will get money after repaying the loan.
+If your ordinals get liquidated, it's fully on-chain auction for [144 + 3](../../faq/what-is-144-+-3-blocks-ordinals-auction.md) blocks, the highest bid win the auction and you will get money after repaying the loan.
 
 It's very important if your ordinals are grails, cos you won't get liquidated by floor price like in peer-to-peer lending service.
 
