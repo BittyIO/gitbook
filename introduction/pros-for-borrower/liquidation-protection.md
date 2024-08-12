@@ -1,6 +1,6 @@
-# 144 blocks-auction-protection (ordinals)
+# liquidation-protection (ordinals)
 
-If you ordinals accidentally be triggered to be auctioned, you can repay half of the debt in 144 blocks before the auction been finished with fine of max(0.005btc, 5% \* debt) to redeem your ordinals.
+If you ordinals accidentally be triggered to be auctioned, you can repay half of the debt in [144 blocks](../../faq/what-is-144-+-3-blocks-ordinals-auction.md) before the auction been finished with fine of max(0.005btc, 5% \* debt) to redeem your ordinals.
 
 This is very important to make sure that you won't wake up with your ordinals been taken from you can hard to buy it back.
 
