@@ -42,4 +42,5 @@
   * [How to implements pool lending without smart contract?](faq/how-to-implements-pool-lending-without-smart-contract.md)
   * [Is that my assets safe?](faq/is-that-my-assets-safe.md)
   * [What is 144 + 3 blocks ordinals auction](faq/what-is-144-+-3-blocks-ordinals-auction.md)
+  * [What is the first bid bonus](faq/what-is-the-first-bid-bonus.md)
 * [Community Discord](http://discord.bitty.io)
