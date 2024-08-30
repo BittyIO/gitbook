@@ -1,0 +1,2 @@
+# Borrower proof collateral ownership
+
