@@ -2,14 +2,20 @@
 
 Borrowers can get the loan instantly instead of waiting the lender to match the loan.
 
-This is very important for the borrowers cos sometimes they need to wait for hours to days to match their loans.
+This is very important for the borrowers because the lender need to take risk of defaulting individually, it's hard for the lenders to lend out the money.
 
-For example:
+So we can see in a p2p lending business like this: when the price is going up, borrowers may need wait hours to match the lenders, but when the price is going down, they may need days to match their loans.
 
-* `Alice bought an ordinals at 0.2btc`&#x20;
-* `Alice using a peer-to-peer lending to borrow 0.1btc when the floor price of her ordinals is stable in 2 hours`
-* `Alice repaid the loan when she finished using the money after 10 days using the money borrowed from anywhere else`
-* `Alice want to borrow the money again when the floor price of the ordinals is dropping`&#x20;
-* `Alice can't match the loan in two days because the floor price is keep dropping that the lenders don't want to lend out the money when the floor price is dropping to make borrowers more likely to default the loan`
+Example for Ordinals:
 
-And for sure as borrower you won't get error like the offers invalid or the initial offer replaced by other loans because there is enough money in the pool for you.
+* `Alice bought an ordinals when the price is going up at 0.2btc`&#x20;
+* `When the price is going down, Alice want some liquidity against her ordinals so hard`
+* `Alice wait for days because lenders don't want to take risk on defaulting when the price is going down`
+
+Example for BRC20/Runes:
+
+* `Alice bought 10k USD BRC20 when the price is going up`&#x20;
+* `When the price is going down, Alice want some liquidity against her tokens so hard`
+* `Alice wait for days because lenders don't want to take risk on defaulting when the price is going down`
+
+In a peer to pool lending service, you will never see this happen, as long as the collaterals is fine and service have enough money in treasury, lenders will feel safe in putting money in the protocol, so Alice can borrow money at next block as long as she willing to pay miner normal transaction fee.
