@@ -1,3 +1,7 @@
+---
+icon: list-ol
+---
+
 # Introduction
 
 Welcome to [Bitty](https://bitty.io).
