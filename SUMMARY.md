@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
   * [Why Bitty?](introduction/why.md)
-  * [Pros for borrower](introduction/pros-for-borrower/README.md)
+  * [Pros for borrowers](introduction/pros-for-borrower/README.md)
     * [Borrow money instantly](introduction/pros-for-borrower/borrow-money-instantly.md)
     * [Repay money anytime](introduction/pros-for-borrower/repay-anytime.md)
     * [Interests lower](introduction/pros-for-borrower/interests-lower.md)
@@ -11,7 +11,7 @@
     * [Proof of Ownership (ordinals)](introduction/pros-for-borrower/proof-of-ownership.md)
     * [Liquidation-protection (ordinals)](introduction/pros-for-borrower/liquidation-protection.md)
     * [Get value from the auctions (ordinals)](introduction/pros-for-borrower/collaterals-get-auctioned.md)
-  * [Pros for lender](introduction/pros-for-lender/README.md)
+  * [Pros for lenders](introduction/pros-for-lender/README.md)
     * [Get interests instantly](introduction/pros-for-lender/interests-instantly.md)
     * [Withdraw money anytime](introduction/pros-for-lender/withdraw-anytime.md)
     * [Get protected from defaulting](introduction/pros-for-lender/get-protected-from-defaulting.md)
