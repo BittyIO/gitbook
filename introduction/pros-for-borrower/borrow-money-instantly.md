@@ -8,7 +8,7 @@ So we can see in a p2p lending business like this: when the price is going up, b
 
 Example for Ordinals:
 
-* `Alice bought an ordinals when the price is going up at 0.2btc`&#x20;
+* `Alice bought an ordinals when the price is going up at 0.2 BTC`&#x20;
 * `When the price is going down, Alice want some liquidity against her ordinals so hard`
 * `Alice wait for days because lenders don't want to take risk on defaulting when the price is going down`
 
