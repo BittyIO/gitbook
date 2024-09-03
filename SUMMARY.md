@@ -40,7 +40,7 @@
     * [Auction failed](risk/liquidator/auction-failed.md)
 * [FAQ](faq/README.md)
   * [How to implements pool lending without smart contract?](faq/how-to-implements-pool-lending-without-smart-contract.md)
-  * [Is that my assets safe?](faq/is-that-my-assets-safe.md)
+  * [Are my assets safe?](faq/is-that-my-assets-safe.md)
   * [What is 144 + 3 blocks ordinals auction](faq/what-is-144-+-3-blocks-ordinals-auction.md)
   * [What is potential first bid bonus](faq/what-is-the-first-bid-bonus.md)
   * [What is Health Factor](faq/what-is-health-factor.md)
