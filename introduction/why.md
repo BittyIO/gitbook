@@ -1,14 +1,12 @@
 # Why Bitty?
 
-On Ethereum, FT users use peer-to-pool service like AAVE, Compound to borrow money, NFT users use peer-to-pool service like BendDAO.
-
-While bitcoiner can use Liquidium as peer-to-peer service, we want to complete the last lego for bitcoin ecosystem, peer-to-pool lending service for on bitcoin, that's why we start bitty, trying to provide the best lending service on bitcoin for ordinals, BRC20 & Runes assets holders, which will be a bitcoin all-in-one lending service.
+On Ethereum, FT users use peer-to-pool services like AAVE and Compound to borrow money, while NFT users use services like BendDAO. While Bitcoiners can use Liquidium as a peer-to-peer service, we want to complete the last piece of the Bitcoin ecosystem by a peer-to-pool lending service. That’s why we started Bitty, aiming to provide the best lending service on Bitcoin for ordinals, BRC20, and Runes assets holders—creating an all-in-one lending solution for Bitcoin.
 
 **What is peer-to-pool lending**
 
 Peer-to-pool lending is a product that users can participate as suppliers or borrowers.&#x20;
 
-Suppliers provide liquidity to the market by the product to earn interests, while borrowers are able to borrow money instantly by over-collateralised assets.
+Suppliers provide liquidity to the market by the product to earn interests, while borrowers are able to borrow money instantly by over-collateralised assets, both of them don't need to match each other, they supply/borrow money to/from the platform.
 
 **Why peer-to-pool lending**
 
