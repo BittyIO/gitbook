@@ -2,7 +2,7 @@
 
 While EVM provide Turing complete smart contact, bitcoin service is more relied on&#x20;
 
-* PBST
+* PSBT
 * Multi-sig
 * Discreet Log Contracts (DLCs)
 
