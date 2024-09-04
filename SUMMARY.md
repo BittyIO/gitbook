@@ -41,7 +41,7 @@
 * [FAQ](faq/README.md)
   * [How to implements pool lending without smart contract?](faq/how-to-implements-pool-lending-without-smart-contract.md)
   * [Are my assets safe?](faq/are-my-assets-safe.md)
-  * [How liquidation works](faq/how-liquidation-works.md)
+  * [How liquidation works?](faq/how-liquidation-works.md)
   * [What is 144 + 3 blocks ordinals auction?](faq/what-is-144-+-3-blocks-ordinals-auction.md)
   * [What is potential first bid bonus?](faq/what-is-the-first-bid-bonus.md)
   * [What is Health Factor?](faq/what-is-health-factor.md)
