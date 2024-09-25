@@ -1,20 +1,16 @@
 # Why Bitty?
 
-On Ethereum, FT users use peer-to-pool services like AAVE and Compound to borrow money, while NFT users use services like BendDAO. While Bitcoiners can use Liquidium as a peer-to-peer service, we want to complete the last piece of the Bitcoin ecosystem by a peer-to-pool lending service. That’s why we started Bitty, aiming to provide the best lending service on Bitcoin for ordinals, BRC20, and Runes assets holders—creating an all-in-one lending solution for Bitcoin.
+On Ethereum, users of fungible tokens (FTs) utilize peer-to-pool services like AAVE and Compound to borrow funds, while NFT users turn to platforms such as BendDAO. In the Bitcoin ecosystem, Liquidium offers peer-to-peer lending, but we aim to complete the picture with a peer-to-pool lending service. That’s why we launched Bitty: to provide an exceptional lending solution for holders of ordinals, BRC20 tokens, and Runes assets, creating an all-in-one lending platform for Bitcoin.
 
-**What is peer-to-pool lending**
+#### What is Peer-to-Pool Lending?
 
-Peer-to-pool lending is a product that users can participate as suppliers or borrowers.&#x20;
+Peer-to-pool lending allows users to participate as either suppliers or borrowers. Suppliers provide liquidity to the market through the platform, earning interest on their contributions. Borrowers can access funds instantly by over-collateralizing their assets. Importantly, suppliers and borrowers do not need to match with one another; they interact with the platform instead.
 
-Suppliers provide liquidity to the market by the product to earn interests, while borrowers are able to borrow money instantly by over-collateralised assets, both of them don't need to match each other, they supply/borrow money to/from the platform.
+#### Why Peer-to-Pool Lending?
 
-**Why peer-to-pool lending**
+In the early stages of the market, services like ETHLend and NFTFi served as peer-to-peer solutions. However, as assets like Bitcoin, Ethereum, CryptoPunks, and BAYC stabilize, the demand for more efficient lending services has grown. These services enable borrowers to secure loans instantly while allowing suppliers and liquidators to operate in distinct roles. This shift has led to the dominance of protocols like AAVE and Compound in the lending space.
 
-While in the early age of a market, people using peer-to-peer service like what AAVE was ETHLend before, and what NFTFi was for NFT, after the assets become more stable like bitcoin, Ethereum, CryptoPunks, BAYC, the more efficient lending service is required by the market to let borrowers can get loan instantly and make suppliers and liquidators work as different roles.&#x20;
+#### How Peer-to-Pool Lending Dominates the Market
 
-That's why we see protocol like AAVE, Compound are dominating the lending business.
-
-**How peer-to-pool lending win the market**
-
-Borrowers are the demand from the market, the revenue source of the product, peer-to-pool lending is way more friendly for the borrowers, that's why peer-to-pool lending win the market.
+Borrowers represent the market's demand and are a key revenue source for the product. Peer-to-pool lending is inherently more user-friendly for borrowers, which is why it is positioned to thrive in the market.
 
