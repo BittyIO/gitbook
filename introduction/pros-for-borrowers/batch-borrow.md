@@ -1,7 +1,7 @@
 # Batch borrows in one transaction
 
-Whales can batch borrow with more than one collaterals in one transaction instead of doing peer-to-peer lending for each collateral.
+Whales can batch borrow against multiple collateral assets in a single transaction, comparing to peer-to-peer lending one transaction for each collateral, this is way more efficient.&#x20;
 
-It saves a lot of time for the whales and more capital efficient.&#x20;
+***
 
 ![img1](../../imgs/img1.png)
