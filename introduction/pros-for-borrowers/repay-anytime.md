@@ -1,21 +1,17 @@
 # Repay money anytime
 
-Borrowers can repay the money anytime they want as long as the [Health Factor](../../faq/what-is-health-factor.md) of the loan is above 1.
+Borrowers can repay their loans at any time, as long as the Health Factor remains above 1. This flexibility is crucial for borrowers, allowing them to invest the borrowed funds over a longer period.
 
-This is very important for the borrowers to use borrowed money to invest anywhere for a long enough time.
+#### Example with Ordinals:
 
-Example for Ordinals:
+Alice purchased an ordinal at a floor price of 0.2 BTC. She used a peer-to-peer service to borrow 0.1 BTC, which she then invested in asset "A." After 12 days, the ordinal's floor price increased to 0.23 BTC, but Alice still needed to sell some of asset "A" to repay the loan.
 
-* `Alice bought an ordinals at floor price 0.2 BTC`
-* `Alice use a peer-to-peer service to borrow 0.1 BTC, then she use that 0.1 BTC to buy assets "A"`
-* `After 12 days, the ordinals floor price is 0.23 BTC but Alice still need to sold some of the "A" she bought and repaid to repay that loan`
-* `If Alice used a peer-to-pool service, she don't need to sell "A" to repay that loan that she won't miss any value up by "A"`
+If Alice had used a peer-to-pool service, she wouldn’t have had to sell asset "A" to repay the loan, allowing her to retain its full value as it appreciated.
 
-Example for BRC20/Runes:
+#### Example with BRC20/Runes:
 
-* `Alice bought 10k USD BRC20 token`
-* `Alice use a peer-to-peer service to borrow 5k USD StableCoin, then she use that 5K StableCoin to buy assets "A"`
-* `After 10 days, the BRC20 token price is up 10% but Alice still need to sold some of the "A" she bought and repaid to repay that loan`
-* `If Alice used a peer-to-pool service, she don't need to sell "A" to repay that loan that she won't miss any value up by "A"`
+Alice bought $10,000 worth of BRC20/Runes tokens. She borrowed $5,000 in StableCoin through a peer-to-peer service and used it to purchase asset "A." After 10 days, the price of the BRC20 token rose by 10%, yet Alice still needed to sell some of asset "A" to repay her loan.
 
-Since the assets been listed in a peer-to-pool lending service are bluechips and had good liquidity in DEX/CEX, so the borrowers can feel free to use the borrowed money as long as they want, it's a huge advantage comparing to fixed-peroid peer-to-peer lending service.
+Had she opted for a peer-to-pool service, Alice wouldn’t have been forced to sell asset "A" to repay the loan, enabling her to benefit from its potential appreciation.
+
+Since the assets listed on a peer-to-pool lending service are typically blue-chip and have good liquidity in decentralized exchanges (DEX) and centralized exchanges (CEX), borrowers can confidently utilize borrowed funds for as long as needed. This flexibility offers a significant advantage compared to fixed-term peer-to-peer lending services.
