@@ -1,5 +1,5 @@
 # Interests lower
 
-The interests will be way more lower in the lending pool than like 100% APY for borrowing bitcoin because there the interests is adjusted block by block to make sure that there is enough money in the pool for borrowers to borrow anytime.
+Interest rates in a lending pool are typically much lower than the 100% APY often seen in other borrowing scenarios. This is because interest rates in a peer-to-pool system are adjusted block by block, ensuring there is always sufficient liquidity available for borrowers.
 
-Peer-to-pool is more friendly for institution money because they can put big money of money in the pool without managing too many loans in peer-to-peer lending, even 20-30% of APY for bitcoin is very competitive.
+Peer-to-pool lending is also more attractive to institutional investors. They can contribute significant amounts of capital to the pool without the complexities of managing multiple loans, as is common in peer-to-peer lending. Even a 20-30% APY for Bitcoin remains highly competitive in this context.
