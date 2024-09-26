@@ -1,14 +1,7 @@
 # Get value from the auctions (ordinals)
 
-If your ordinals get liquidated, it's fully on-chain auction for [144 + 3](../../faq/what-is-144-+-3-blocks-ordinals-auction.md) blocks, the highest bid win the auction and you will get money after repaying the loan.
+If your ordinals are liquidated, the process involves a fully on-chain auction lasting for [144 + 3](../../faq/what-is-144-+-3-blocks-ordinals-auction.md) blocks. The highest bid wins, and you will receive the funds after repaying the loan. This mechanism is particularly important for grail ordinals, as they won’t be liquidated at the floor price, unlike in peer-to-peer lending services.
 
-It's very important if your ordinals are grails, because you won't get liquidated by floor price like in peer-to-peer lending service.
+**Example:** Alice purchased a grail ordinal for 0.3 BTC when the floor price was 0.2 BTC. She borrowed 0.1 BTC from Bitty, using a 50% loan-to-value (LTV) based on the floor price. Unfortunately, Alice was unable to repay the loan and was liquidated.
 
-For example:
-
-* `Alice bought a grail ordinals at 0.3 BTC when floor price was 0.2 BTC`
-* `Alice borrowed 0.1 BTC from Bitty by 50% LTV of floor price 0.2 BTC`
-* `Alice get liquidated cos she can't repay the loan`
-* `After auction finished, auction winner bid for 0.27 BTC for that grail ordinals`
-* `Alice get 0.27 - 0.1 = 0.17 BTC back after the auction which she will never get if she used a peer-to-peer service`
-
+After the auction concluded, the winning bid for her grail ordinal was 0.27 BTC. After repaying her loan, Alice received 0.27 BTC - 0.1 BTC = 0.17 BTC back. This is a scenario she would not have experienced had she used a peer-to-peer service.
