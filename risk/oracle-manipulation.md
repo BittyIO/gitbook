@@ -1,6 +1,6 @@
 # Oracle manipulation
 
-We utilize price data from both centralized exchanges, like Binance, and decentralized platforms, such as MagicEden, for BRC20 tokens, Runes, and Ordinals. Our oracle algorithm remains proprietary, and until a stable oracle service for Bitcoin, like Chainlink, is available, Bitty will maintain the oracle to ensure accountability for our users.
+We use price data from both centralized exchanges, like Binance, and decentralized platforms, such as MagicEden, for BRC20 tokens, Runes, and Ordinals. Our oracle algorithm remains proprietary, and until a stable oracle service for Bitcoin, like Chainlink, is available, Bitty will maintain the oracle to ensure accountability for our users.
 
 #### Security Considerations on Bitcoin
 
