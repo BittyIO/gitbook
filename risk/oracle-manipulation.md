@@ -1,13 +1,12 @@
 # Oracle manipulation
 
-We use price data from centralized exchange like Binance & decentralized exchange platform like MagicEden for BRC20/Runes & Ordinals.
+We utilize price data from both centralized exchanges, like Binance, and decentralized platforms, such as MagicEden, for BRC20 tokens, Runes, and Ordinals. Our oracle algorithm remains proprietary, and until a stable oracle service for Bitcoin, like Chainlink, is available, Bitty will maintain the oracle to ensure accountability for our users.
 
-Our oracle algorithm is not exposed, and before any decentralized service like chainlink to have a stable oracle service on Bitcoin, we will keep the oracle maintained by Bitty for taking responsibility of our users.
+#### Security Considerations on Bitcoin
 
-On Bitcoin, since blocking time is 10 mins average:
+Due to Bitcoin's average block time of 10 minutes:
 
-* attacking lending service by making the price low to liquidate borrowers' assets is harder than other chains like Ethereum, because the attackers need keep the price low longer, which make other buyers to buy them out easier.
-* attacking lending service by making the price high to rug the money in the pool is harder, cos lending just support LTV like 30% - 50%, the attackers need a lot of money to keep the price of the assets higher than 200% - 300%+ to make the attack profitable, and for each of the assets listed on Bitty will have a lending cap, which makes one asset attacking damaging be limited.
+* **Attacks to Liquidate Assets**: It is more challenging to attack a lending service by artificially lowering prices to liquidate borrowers’ assets compared to other chains like Ethereum. Attackers must sustain a low price for a longer duration, allowing other buyers to step in and purchase the undervalued assets more easily.
+* **Attacks to Inflate Prices**: Similarly, attempting to inflate prices to siphon funds from the lending pool is difficult. Our lending service supports a loan-to-value (LTV) ratio of only 30% to 50%, meaning attackers would need a substantial amount of capital to maintain prices at 200% to 300% higher than normal for the attack to be profitable. Additionally, each asset listed on Bitty has a lending cap, limiting the potential damage from any single asset's attack.
 
-That's how bitcoin keep a longer block time to have a more secure ledger, and that's how people feeling safe to save value on Bitcoin and how we feel safe to build on Bitcoin.
-
+This combination of longer block times and structured lending mechanisms contributes to Bitcoin's security, fostering a sense of safety for users to store value and for us to build on the Bitcoin network.
