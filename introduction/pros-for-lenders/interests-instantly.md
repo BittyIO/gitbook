@@ -1,5 +1,5 @@
 # Get interests instantly
 
-Lenders will start to get interests the next block after the money is deposit confirmed in the lending pool.
+Lenders begin accruing interest from the next block after their deposit is confirmed in the lending pool.&#x20;
 
-Lenders don't need to wait for the borrowers to accept the loan and getting no interests while competing with other lenders before their money get borrowed.
+This means they don’t have to wait for borrowers to accept loans, avoiding the period of earning no interest while competing with other lenders for their funds to be borrowed.

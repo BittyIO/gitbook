@@ -1,20 +1,7 @@
 # Get protected from defaulting
 
-Lender will not ends of losing money from the defaulting by borrowers.&#x20;
+Lenders will not incur losses due to borrower defaults. In the event of bad debts, the protocol covers the losses instead of the individual lenders. This means that in a peer-to-pool lending model, lenders earn interest rather than taking on the role of liquidators.
 
-If any bad debts happened, it's covered by the protocol instead of the lenders.
+**Example with Peer-to-Peer Lending:** Alice lends out 0.1 BTC secured by an asset. If the asset's value drops to a 0.05 BTC floor price during the 10-day loan period and the borrower defaults, Alice loses 0.05 BTC.
 
-For the peer-to-pool lending, lender is earning interests instead of being a liquidator at the same time.
-
-For example:
-
-* `Alice lender out 0.1 BTC for some asset in a peer-to-peer lending system`
-* `The assets value drop to 0.05 BTC floor price in the 10 days loan`
-* `The borrower defaulted the loan, Alice lose 0.05 BTC after the default`
-
-When using peer-to-pool service, the example will be like:
-
-* `Alice deposit 0.1 BTC into the peer-to-pool pool`
-* `The borrower borrow 0.05 BTC from the pool when the floor price is 0.1 BTC`
-* `The borrower got liquidated when his assets is valued at 0.06 BTC`
-* `Alice can get 0.1 BTC + interests at anytime from the pool`
+**Example with Peer-to-Pool Lending:** Alice deposits 0.1 BTC into the peer-to-pool. A borrower takes a loan of 0.05 BTC from the pool when the asset's floor price is 0.1 BTC. If the borrower is liquidated when their asset is valued at 0.06 BTC, Alice can still withdraw her 0.1 BTC plus any accrued interest at any time from the pool.
