@@ -6,7 +6,7 @@ icon: list-ol
 
 **Welcome to Bitty!**
 
-If you’re new to lending, here’s [why Bitty](introduction/why.md) is a great starting point for you.
+If you’re new to lending, [why Bitty](introduction/why.md) is a good start for you.
 
 If you're a peer-to-peer lending user, check out the advantage of Bitty:
 
