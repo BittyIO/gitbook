@@ -1,34 +1,27 @@
 # What is 144 + 3 blocks ordinals auction?
 
-The 144 + 3 blocks auction is that the ordinals will be liquidated by an on-chain auction system.
+The 144 + 3 block auction system is designed for the liquidation of ordinals through an on-chain auction. The 144 blocks roughly equate to 24 hours (6 blocks per hour), ensuring that ordinals owners won’t lose their assets unexpectedly due to a brief absence, such as during sleep or travel. However, once the auction starts, **ordinals owners can only halt it within the 144-block timeframe,** **the additional 3 blocks do not provide liquidation protection for them.**
 
-144 blocks is close to 24 hours (6 \* 24 blocks) , which make sure that every ordinals owner won't lose their ordinals after a sleep/flight, **the ordinals owner can only stop the auction in 144 blocks after the auction started, which means the +3 is not working for the liquidation protection for the ordinals owner**.
+The +3 blocks serve a specific purpose: if no higher bids are placed within 3 blocks after the initial 144 blocks, the auction concludes.
 
-The +3 blocks means that if no higher bid in 3 blocks after 144 blocks, the auction ends.
+#### Example 1:
 
-Example 1:
+* **Scenario**: Alice borrowed 0.1 BTC when the floor price of her ordinals was 0.2 BTC.
+* **Situation**: Unable to repay the loan, the floor price drops to around 0.12 BTC.
+* **Auction Start**: Alice's ordinals are put up for auction at Bitcoin block height #1000.
+* **Bid Progress**: The highest bid of 0.11 BTC is placed at block height #1144 (the liquidation protection ends here).
+* **Auction End**: No further bids are made by block height #1147, so the auction concludes with the 0.11 BTC bidder winning.
 
-* `Alice borrowed 0.1btc from Bitty when her ordinals floor price is 0.2btc`
-* `Alice can't repay that loan when the floor price is close to 0.12 btc`
-* `Alice's ordinals started been auction at bitcoin block height #1000`
-* `The highest bid is 0.11btc at block height #1144 (the` [`liquidation protection`](../introduction/pros-for-borrowers/liquidation-protection.md) `stop here)`
-* `No more bid at block height #1147, the auction ends, the 0.11btc bidder win the auction`
+#### Example 2:
 
-Example 2:
+* **Scenario**: Same as above, Alice borrows 0.1 BTC with the same conditions.
+* **Auction Start**: Her ordinals begin auctioning at block height #1000.
+* **Bid Progress**: The highest bid of 0.11 BTC is placed at block height #1144 (liquidation protection ends).
+* **New Bid**: At block height #1147, a new bid of 0.12 BTC is confirmed, extending the auction.
+* **Auction End**: At block height #1150, with no new bids confirmed, the auction concludes with the 0.12 BTC bid winning.
 
-* `Alice borrowed 0.1btc from Bitty when her ordinals floor price is 0.2btc`
-* `Alice can't repay that loan when the floor price is close to 0.12 btc`
-* `Alice's ordinals started been auction at bitcoin block height #1000`
-* `The highest bid is 0.11btc at block height #1144 (the` [`liquidation protection`](../introduction/pros-for-borrowers/liquidation-protection.md) `stop here)`
-* `At block height #1147, a new bid with 0.12btc is been confirmed, the auction continue`
-* `At block height #1150, no new bid is confirmed, the auction ends, the 0.12btc bid win the auction`
+#### Why Use Block Height Instead of Timestamp?
 
+We prefer block height over timestamps for auction management to mitigate risks associated with varying block times. Occasionally, Bitcoin can produce two blocks simultaneously, and the longest interval between two blocks can be up to two hours. However, the chance of three blocks being generated at the same time is exceedingly low.
 
-
-**Why bitty use block height instead of timestamp for auction?**&#x20;
-
-Because we do not want user to risk on block time from block to block, sometimes, bitcoin block can generate two blocks at the same time, and the longest time between two block is two hours.
-
-But it would be a very low chance that the bitcoin system to have three blocks at the same time.
-
-So use the block height instead of timestamp can make sure that user can send auction transaction with high gas in mem-pool instead of lucky on block time to make auction, and it will reduce the advantage for mining pool if they want to take advantage on auction.
+Using block height ensures that users can submit auction transactions with higher gas fees in the mempool, reducing the reliance on luck regarding block timing and minimizing advantages for mining pools that might attempt to exploit auctions.
