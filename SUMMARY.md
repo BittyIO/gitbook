@@ -37,7 +37,7 @@
   * [Lender](risk/bankrun/README.md)
     * [Bank run](risk/bankrun/bank-run.md)
   * [Liquidator](risk/liquidator/README.md)
-    * [Auction failed](risk/liquidator/auction-failed.md)
+    * [Lost money after the ordinals auction finished](risk/liquidator/auction-failed.md)
 * [FAQ](faq/README.md)
   * [How to implements pool lending without smart contract?](faq/how-to-implements-pool-lending-without-smart-contract.md)
   * [Are my assets safe?](faq/are-my-assets-safe.md)
