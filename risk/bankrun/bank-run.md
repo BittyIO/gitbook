@@ -1,13 +1,9 @@
 # Bank run
 
-All the assets sharing the liquidity in the pool are carefully selected by the Bitty team with full risk estimated.
+All assets sharing liquidity in the pool are carefully selected, with comprehensive risk assessments conducted. However, we cannot guarantee that a bank run will not occur, especially in the event of a sudden price drop due to a black swan event.
 
-But still we can't make sure that bank run will not happen when some of the assets get short term price drop a lot as black swan event.
+During a bank run, suppliers may be unable to withdraw their funds until liquidity is restored. To attract deposits back into the protocol, interest rates for suppliers will rise significantly—potentially reaching 100% APY—to attract more supplies the protocol if lenders are confident that the price will be back after panic.
 
-When bank run happens, money suppliers can't withdraw the money until the money supply be back.
+And for any asset, we have the debt ceiling to control the risk of single asset.
 
-The supply interests will be high when reserves are not enough like 100% to attract more people deposit the money back to the protocol if they are confident that the price will be back after panic.
-
-If the price don't get back and the liquidation is not finished by the liquidators, Bitty will use treasury to cover that lost.
-
-The treasury will become more and more by the revenue generated from the protocol, peer-to-pool lending business it that how to provide the best lending experience with revenue generated but avoid of being too aggressive that bad debts generated over the treasury.
+If prices do not rebound and liquidations remain incomplete, Bitty will use its treasury to join the auction to stop the bad debt. The treasury is expected to grow over time through revenue generated from the protocol. Our peer-to-pool lending model aims to provide an optimal lending experience while minimizing aggressive strategies that could lead to bad debts impacting the treasury.

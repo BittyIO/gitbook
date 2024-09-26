@@ -1,9 +1,5 @@
 # Collaterals liquidation
 
-When your HF is close to 1.0, borrowers are supposed to repay some money to keep the HF health.
+When your health factor (HF) approaches 1.0, borrowers should consider repaying part of their loan to maintain a healthy HF. If borrowers fail to make repayments, their collateral may be at risk of liquidation by others.
 
-If borrowers don't repay the money, the collaterals may risk of been liquidated by anyone to start the liquidation.
-
-Borrowers are supposed to get attention to the floor price of the collaterals in different exchange platform.
-
-If on-chain auction for the collateral started, borrower still have 24 hours to repay loan and some fine to end the auction.
+It’s essential for borrowers to monitor the floor price of their collateral across various exchange platforms. If an on-chain auction for the collateral begins, borrowers still have [144 blocks](../../faq/what-is-144-+-3-blocks-ordinals-auction.md) window to repay the loan, along with a fine, to stop the auction.
