@@ -26,5 +26,5 @@ The health factor is a crucial concept in cryptocurrency lending, as explained i
 
 Unlike other platforms, Bitty bitcoin lending calculates the Health Factor (HF) on a per-collateral basis rather than a per-wallet basis. This is due to Bitcoin's lack of smart contract functionality, which prevents multi-asset liquidation in a single transaction (as provided by other swap protocols).
 
-Key point: on Bitty, you cannot share margin between different collaterals.
+Key point: on Bitty v1.0, you cannot share margin between different collaterals, we will implement the BTC, BRC20, Runes share margin first, and do the margin share for ordinals as well in the future.
 
