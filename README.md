@@ -1,7 +1,3 @@
----
-icon: list-ol
----
-
 # Introduction
 
 **Welcome to Bitty!**
