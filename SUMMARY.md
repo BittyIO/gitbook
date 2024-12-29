@@ -45,4 +45,5 @@
   * [What is 144 + 3 blocks ordinals auction?](faq/what-is-144-+-3-blocks-ordinals-auction.md)
   * [What is potential first bid bonus?](faq/what-is-the-first-bid-bonus.md)
   * [What is Health Factor?](faq/what-is-health-factor.md)
+  * [Interest rate](faq/interest-rate.md)
 * [Community Discord](http://discord.bitty.io)
