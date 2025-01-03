@@ -4,6 +4,8 @@ The 144 + 3 block auction system is designed for the liquidation of ordinals thr
 
 The +3 blocks serve a specific purpose: if no higher bids are placed within 3 blocks after the initial 144 blocks, the auction concludes.
 
+Higher bid should be 1% more than last highest bid.
+
 #### Example 1:
 
 * **Scenario**: Alice borrowed 0.1 BTC when the floor price of her ordinals was 0.2 BTC.
