@@ -1,6 +1,6 @@
 # Why Bitty?
 
-On Ethereum, users of fungible tokens (FTs) utilize peer-to-pool services like AAVE and Compound to borrow funds, while NFT users turn to platforms such as BendDAO. In the Bitcoin ecosystem, Liquidium offers peer-to-peer lending, but we aim to complete the picture with a peer-to-pool lending service. That’s why we launched Bitty: to provide an exceptional lending solution for holders of ordinals, BRC20 tokens, and Runes assets, creating an all-in-one lending platform for Bitcoin.
+On Ethereum, users of fungible tokens (FTs) utilize peer-to-pool services like AAVE and Compound to borrow money, while NFT users turn to platforms such as BendDAO. In the Bitcoin ecosystem, Liquidium offers peer-to-peer lending, but we aim to complete the picture with a peer-to-pool lending service. That’s why we launched Bitty:  introduces the first peer-to-pool lending protocol on Bitcoin, offering a seamless lending solution for holders of Ordinals (NFT), Runes & BRC-20 (FT) assets.&#x20;
 
 #### What is Peer-to-Pool Lending?
 
