@@ -2,9 +2,9 @@
 
 The 144 + 3 block auction system is designed for the liquidation of ordinals through an on-chain auction. The 144 blocks roughly equate to 24 hours (6 blocks per hour), ensuring that ordinals owners won’t lose their assets unexpectedly due to a brief absence, such as during sleep or travel. However, once the auction starts, **ordinals owners can only end the auction within the 144 blocks by redeem,** **the additional 3 blocks do not provide liquidation protection for them.**
 
-The +3 blocks to make sure that the ordinals owner can sell their collateral on-chain for a fair price to get the value back after repaying debt, each higher bid should be 1% more than last highest bid.
+The +3 blocks to make sure that the ordinals owner can sell their collateral on-chain for a fair price to get the value back after repaying debt.
 
-We can use one image to explain how ordinals on-chain auction work:
+We can use images to explain how ordinals on-chain auction work:
 
 #### Case 1:
 
