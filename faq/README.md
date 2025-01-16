@@ -1,5 +1,5 @@
 ---
-icon: question
+icon: comment-question
 ---
 
 # FAQ

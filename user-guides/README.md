@@ -1,5 +1,5 @@
 ---
-icon: dog-leashed
+icon: book-open
 ---
 
 # User guides
