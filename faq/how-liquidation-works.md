@@ -1,6 +1,6 @@
 # How liquidation works?
 
-Both of ordinals and BTC/Runes/BRC20 can be used as collateral for borrowing funds.
+Both of ordinals and BTC/Run can be used as collateral for borrowing funds.
 
 #### Liquidation Rules for Ordinals:
 
@@ -10,9 +10,9 @@ Both of ordinals and BTC/Runes/BRC20 can be used as collateral for borrowing fun
 * Each higher bid should be 1% more than last bid.
 * The money (highest\_bid - debt) will go to the pool added to balance for original owner (Bitcoin has no smart contract to make it go back to owner directly because we can not know when the transaction will be confirmed).
 
-#### Liquidation Rules for BTC/Runes/BRC20:
+#### Liquidation Rules for BTC/Runes:
 
 * Similar to [Aave](../introduction/pros-for-borrowers/claim-airdrops-in-loan.md), different assets as collateral cannot share margins; each loan has its own unique loan ID. Users can maintain multiple loan positions using the same type of asset.
 * If the health factor of any collateral drops below 1, an on-chain auction may be triggered by anyone.
-* There is no 144-block liquidation protection for BTC/Runes/BRC20.
+* There is no 144-block liquidation protection for BTC/Runes
 
