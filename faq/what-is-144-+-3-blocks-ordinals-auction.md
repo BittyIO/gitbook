@@ -1,6 +1,6 @@
 # What is 72 + 3 blocks ordinals auction?
 
-The 72 + 3 block auction system is designed for the liquidation of ordinals through an on-chain auction. The 172 blocks roughly equate to 12 hours (6 blocks per hour), ensuring that ordinals owners won’t lose their assets unexpectedly due to a brief absence, such as during sleep or travel. However, once the auction starts, **ordinals owners can only end the auction within the 72 blocks by redeem,** **the additional 3 blocks do not provide liquidation protection for them.**
+The 72 + 3 block auction system is designed for the liquidation of ordinals through an on-chain auction. The 72 blocks roughly equate to 12 hours (6 blocks per hour), ensuring that ordinals owners won’t lose their assets unexpectedly due to a brief absence, such as during sleep or travel. However, once the auction starts, **ordinals owners can only end the auction within the 72 blocks by redeem,** **the additional 3 blocks do not provide liquidation protection for them.**
 
 The +3 blocks to make sure that the ordinals owner can sell their collateral on-chain for a fair price to get the value back after repaying debt.
 
