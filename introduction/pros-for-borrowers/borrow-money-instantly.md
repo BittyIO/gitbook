@@ -6,15 +6,15 @@ In a peer-to-peer (P2P) lending model, the waiting time for borrowers can vary s
 
 ### Examples
 
-#### Ordinals
+#### NFT
 
 1. Alice purchased an ordinal for 0.2 BTC when prices were rising.
 2. As prices began to fall, she urgently needed liquidity against her ordinal.
 3. Unfortunately, she waited for days because lenders were reluctant to take on the risk of default as prices dropped
 
-#### BTC/BRC20/Runes
+#### Crypto(BTC, Runes)
 
-1. Alice bought $10,000 worth of BRC20/Runes tokens when prices were high.
+1. Alice bought $10,000 worth of Runes tokens when prices were high.
 2. When the market turned bearish, she faced difficulties accessing liquidity against her tokens.
 3. Again, she had to wait for days, as lenders were hesitant to provide loans amid declining prices.
 

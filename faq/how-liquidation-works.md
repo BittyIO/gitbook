@@ -5,7 +5,7 @@ Both of ordinals and BTC/Run can be used as collateral for borrowing funds.
 #### Liquidation Rules for Ordinals:
 
 * Different ordinals as collateral cannot share margins; each loan has its own unique loan ID.
-* If the health factor of any ordinal collateral falls below 1, a [144 + 3 ](what-is-144-+-3-blocks-ordinals-auction.md)block auction may be initiated.
+* If the health factor of any ordinal collateral falls below 1, a [144 + 3 ](what-is-72-+-3-blocks-ordinals-auction.md)block auction may be initiated.
 * Anyone can participate in the on-chain auction, and the platform does not receive any funds from these auctions.
 * Each higher bid should be 1% more than last bid.
 * The money (highest\_bid - debt) will go to the pool added to balance for original owner (Bitcoin has no smart contract to make it go back to owner directly because we can not know when the transaction will be confirmed).

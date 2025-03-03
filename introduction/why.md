@@ -1,6 +1,6 @@
 # Why Bitty?
 
-On Ethereum, users of fungible tokens (FTs) utilize peer-to-pool services like AAVE and Compound to borrow money, while NFT users turn to platforms such as BendDAO. In the Bitcoin ecosystem, Liquidium offers peer-to-peer lending, but we aim to complete the picture with a peer-to-pool lending service. That’s why we launched Bitty:  introduces the first peer-to-pool lending protocol on Bitcoin, offering a seamless lending solution for holders of Ordinals (NFT), Runes & BRC-20 (FT) assets.&#x20;
+On Ethereum, users of fungible tokens (FTs) utilize peer-to-pool services like AAVE and Compound to borrow money, while NFT users turn to platforms such as BendDAO. In the Bitcoin ecosystem, Liquidium offers peer-to-peer lending, but we aim to complete the picture with a peer-to-pool lending service. That’s why we launched Bitty:  introduces the first peer-to-pool lending protocol on Bitcoin, offering a seamless lending solution for holders of Ordinals (NFT), BTC & Runes assets.&#x20;
 
 #### What is Peer-to-Pool Lending?
 
@@ -8,7 +8,7 @@ Peer-to-pool lending allows users to participate as either suppliers or borrower
 
 #### Why Peer-to-Pool Lending?
 
-In the early stages of the market, services like ETHLend and NFTFi served as peer-to-peer solutions. However, as assets like Bitcoin, Ethereum, CryptoPunks, and BAYC stabilize, the demand for more efficient lending services has grown. These services enable borrowers to secure loans instantly while allowing suppliers and liquidators to operate in distinct roles. This shift has led to the dominance of protocols like AAVE and Compound in the lending space.
+In the early stages of the market, services like ETHLend and NFTFi served as peer-to-peer solutions. However, as assets like Bitcoin, Ethereum, CryptoPunks, the demand for more efficient lending services has grown. These services enable borrowers to secure loans instantly while allowing suppliers and liquidators to operate in distinct roles. This shift has led to the dominance of protocols like AAVE and Compound in the lending space.
 
 #### How Peer-to-Pool Lending Dominates the Market
 

@@ -1,6 +1,6 @@
 # Get value from the auctions (ordinals)
 
-If your ordinals are liquidated, the process involves a fully on-chain auction lasting for [144 + 3](../../faq/what-is-144-+-3-blocks-ordinals-auction.md) blocks. The highest bid wins, and you will receive the funds after repaying the loan. This mechanism is particularly important for grail ordinals, as they won’t be liquidated at the floor price, unlike in peer-to-peer lending services.&#x20;
+If your ordinals are liquidated, the process involves a fully on-chain auction lasting for [144 + 3](../../faq/what-is-72-+-3-blocks-ordinals-auction.md) blocks. The highest bid wins, and you will receive the funds after repaying the loan. This mechanism is particularly important for grail ordinals, as they won’t be liquidated at the floor price, unlike in peer-to-peer lending services.&#x20;
 
 ### Example
 
