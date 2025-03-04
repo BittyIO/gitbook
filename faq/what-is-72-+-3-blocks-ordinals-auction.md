@@ -8,7 +8,7 @@ We can use images to explain how ordinals on-chain auction work:
 
 #### Case 1:
 
-<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-1 (2).png" alt=""><figcaption></figcaption></figure>
 
 * David borrowed 0.1 BTC against his ordinals when the floor price of his ordinals was 0.2 BTC.
 * David unable to repay the loan, the floor price drops to make his loan health factor lower than 1.
@@ -18,7 +18,7 @@ We can use images to explain how ordinals on-chain auction work:
 
 #### Case 2:
 
-<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 * David borrowed 0.1 BTC against his ordinals when the floor price of his ordinals was 0.2 BTC.
 * David unable to repay the loan, the floor price drops to make his loan health factor lower than 1.
@@ -30,7 +30,7 @@ We can use images to explain how ordinals on-chain auction work:
 
 #### Case 3:
 
-<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-3 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Alex borrowed 0.1 BTC against his ordinals when the floor price of his ordinals was 0.2 BTC.
 * Alex unable to repay the loan, the floor price drops to make his loan health factor lower than 1.
@@ -42,7 +42,7 @@ We can use images to explain how ordinals on-chain auction work:
 
 #### Case 4:
 
-<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-4 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Alex borrowed 0.1 BTC against his ordinals when the floor price of his ordinals was 0.2 BTC.
 * Alex unable to repay the loan, the floor price drops to make his loan health factor lower than 1.
@@ -54,7 +54,7 @@ We can use images to explain how ordinals on-chain auction work:
 
 #### Case 5:
 
-<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/144 + 3 blocks ordinals auction-case-5 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Alex borrowed 0.1 BTC against his ordinals when the floor price of his ordinals was 0.2 BTC.
 * Alex unable to repay the loan, the floor price drops to make his loan health factor lower than 1.
