@@ -38,7 +38,7 @@ We can use images to explain how ordinals on-chain auction work:
 * Bob bided higher at block height #51, Alice get her bid money back in Bob's transaction.
 * Charlie bided higher at block height #52, Bob get his bid money back in Charlie's transaction.
 * After block height #72, Alex can not redeem to stop the auction anymore.
-* David bid higher at block height #145 and no more bid to block height#147, David is the winer of the auction at block height #75(72 + 3), David liquidate the ordinals by repaying the debt to the pool and (the\_money\_bid - debt) goes to Alex. After liquidate, David withdraw the ordinals from the auction system.
+* David bid higher at block height #73 and no more bid to block height#75, David is the winer of the auction at block height #75(72 + 3), David liquidate the ordinals by repaying the debt to the pool and (the\_money\_bid - debt) goes to Alex. After liquidate, David withdraw the ordinals from the auction system.
 
 #### Case 4:
 
@@ -50,7 +50,7 @@ We can use images to explain how ordinals on-chain auction work:
 * Bob, Alice, Charlie out bid each others to make the bid higher and higher.
 * Charlie bided higher at block height #52, Bob get his bid money back in Charlie's transaction.
 * After block height #72, Alex can not redeem to stop the auction anymore.
-* Charlie, Alice and David both bid at height #74, Charlie win the on-chain competition against Alice & David. No more bid to block height #77(74 + 3), Charlie is the winer of the auction at block height #149, Charlie liquidate the ordinals by repaying the debt to the pool and (the\_money\_bid - debt) goes to Alex. After liquidate, Charlie withdraw the ordinals from the auction system.
+* Charlie, Alice and David both bid at height #74, Charlie win the on-chain competition against Alice & David. No more bid to block height #77(74 + 3), Charlie is the winer of the auction at block height #77, Charlie liquidate the ordinals by repaying the debt to the pool and (the\_money\_bid - debt) goes to Alex. After liquidate, Charlie withdraw the ordinals from the auction system.
 
 #### Case 5:
 
