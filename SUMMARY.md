@@ -46,4 +46,5 @@
   * [What is potential first bid bonus?](faq/what-is-the-first-bid-bonus.md)
   * [What is Health Factor?](faq/what-is-health-factor.md)
   * [Interest rate](faq/interest-rate.md)
+  * [Auditing](faq/auditing.md)
 * [Community Discord](http://discord.bitty.io)
