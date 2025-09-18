@@ -24,7 +24,7 @@ The lending bound-nft is non-transferable. However, in some special cases, you c
    | MYTHICS  | [0xC0FFee8FF7e5497C2d6F7684859709225Fcc5Be8](https://etherscan.io/address/0xC0FFee8FF7e5497C2d6F7684859709225Fcc5Be8) |
 
    2. Click Contract -> Write Contract (or Write as Proxy) -> setApprovalForAll, as shown in the figure below
-      ![3a752932-4e86-4a60-8b33-29c9478be8ff](./imgs/3a752932-4e86-4a60-8b33-29c9478be8ff.png)
+      ![3a752932-4e86-4a60-8b33-29c9478be8ff](/imgs/3a752932-4e86-4a60-8b33-29c9478be8ff.png)
    
    
    
@@ -41,7 +41,7 @@ The lending bound-nft is non-transferable. However, in some special cases, you c
    1. Click [link](https://etherscan.io/address/0xa94CCAa71214338E86b9a9B6Ab1F8D71c6167d65)：
 
       Click Contract -> Write as Proxy -> approveDelegation
-      ![34772418-a36d-4877-a6ce-9543280a0e14](./imgs/34772418-a36d-4877-a6ce-9543280a0e14.png)
+      ![34772418-a36d-4877-a6ce-9543280a0e14](/imgs/34772418-a36d-4877-a6ce-9543280a0e14.png)
    
    2. Fill in the parameters
    
@@ -56,7 +56,7 @@ The lending bound-nft is non-transferable. However, in some special cases, you c
 
    1. Click [link](https://etherscan.io/address/0xF7b9F724E2255820316B9c0c1075aff08C038C1b)：
       Click Contract -> Write as Proxy -> transfer
-      ![d698fc7f-f1c4-4502-bfb1-79d10fe244e7](./imgs/d698fc7f-f1c4-4502-bfb1-79d10fe244e7.png)
+      ![d698fc7f-f1c4-4502-bfb1-79d10fe244e7](/imgs/d698fc7f-f1c4-4502-bfb1-79d10fe244e7.png)
    
    2. Fill in the parameters:
    
