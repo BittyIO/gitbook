@@ -7,9 +7,9 @@ Bitty uses the Delegate Cash, which allows you to delegate the use of your NFT a
 
 How to use Delegate Cash on Bitty:
 
-1. Visit the Bitty website and connect your wallet in the top right corner.\
-   Click “Etherium”\
-   Click “Loans”
+Visit the Bitty website and connect your wallet in the top right corner.\
+Click “Ethereum”\
+Click “Loans”
 
 Select the NFT you want to delegate and click the three dots to the right of “Borrow More”.\
 Click "Set Delegate Cash."\
@@ -22,7 +22,7 @@ If you want to delegate multiple NFTs in one transaction,\
 Click “Select All Loans”\
 Click “Set Delegate Cash”\
 Your wallet will pop up and confirm your account.\
-You have now securely delegated all of the airdropped NFTs staked on Bitty to your wallet:
+You have now securely delegated all of the airdropped NFTs as collaterals on Bitty to your wallet:
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
