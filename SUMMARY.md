@@ -19,6 +19,8 @@
   * [Borrowers](user-guides/borrowers/README.md)
     * [Borrow money](user-guides/borrowers/borrower-borrow-money.md)
     * [Repay loan & interests](user-guides/borrowers/borrower-repay-loan.md)
+    * [Repay multiple NFT loans in one transaction (ETH)](user-guides/borrowers/repay-multiple-nft-loans-in-one-transaction-eth.md)
+    * [Repay multiple Ordinals loans in one transaction](user-guides/borrowers/repay-multiple-ordinals-loans-in-one-transaction.md)
     * [Claim airdrops](user-guides/borrowers/borrower-claim-airdrops.md)
     * [Proof Ordinals collateral ownership](user-guides/borrowers/borrower-proof-collateral-ownership.md)
     * [Proof Ethereum NFT collateral ownership](user-guides/borrowers/proof-ethereum-nft-collateral-ownership.md)
