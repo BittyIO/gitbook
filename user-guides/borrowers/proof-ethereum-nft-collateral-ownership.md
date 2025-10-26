@@ -1,6 +1,6 @@
 # Proof Ethereum NFT collateral ownership
 
-Delegate Cash [Overview | Delegate](https://docs.delegate.xyz/) is a decentralized authority delegation tool commonly used in Web3.\
+[Delegate Cash](https://docs.delegate.xyz/) is a decentralized authority delegation tool commonly used in Web3.\
 It allows you to securely "delegate" the use rights of certain assets in your wallet (such as NFTs, tokens, airdrop rights, etc.) to another wallet without handing over the actual private key.
 
 Bitty uses the Delegate Cash, which allows you to delegate the use of your NFT airdrop rights staked on Bitty to your wallet. By ensuring your NFTs are staked on Bitty, you can still claim any airdrops granted by the project.
