@@ -18,6 +18,7 @@
 * [User guides](user-guides/README.md)
   * [Borrowers](user-guides/borrowers/README.md)
     * [Borrow money](user-guides/borrowers/borrower-borrow-money.md)
+    * [Borrow money (ETH)](user-guides/borrowers/borrow-money-eth.md)
     * [Repay loan & interests](user-guides/borrowers/borrower-repay-loan.md)
     * [Repay loan & interests (ETH)](user-guides/borrowers/repay-loan-and-interests-eth.md)
     * [Repay multiple NFT loans in one transaction (ETH)](user-guides/borrowers/repay-multiple-nft-loans-in-one-transaction-eth.md)
