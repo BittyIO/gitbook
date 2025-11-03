@@ -2,7 +2,7 @@
 
 1\. Visit the [Bitty.io](https://bitty.io/lending/bitcoin/nft) website, connect your wallet in the top right corner, click "Bitcoin", click "Loans".
 
-<figure><img src="../../.gitbook/assets/1 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 2\. There are 3 ordinals  with a Health Factor of 1.05, which means they are at risk of being liquidated.
 
@@ -22,19 +22,19 @@ We start to repay 3 ordinals loans in one transaction, tick "Select All Loans", 
 
 Your wallet will pop up, confirm your account, click "Bitcoin", click "Loans". Health Factor has changed to the Target Health Factor you just selected, successfully completing multiple ordinals repayments in one transaction.
 
-<figure><img src="../../.gitbook/assets/5 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ( 2 ) Input the number as you like, check "Selected Loans", check "Total Repay Amount", click "Confirm Repay".
 
-<figure><img src="../../.gitbook/assets/6 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Your wallet will pop up, confirm your account, click "Bitcoin", click "Loans".Health Factor has changed to the Target Health Factor you just inputted, successfully completing multiple NFT repayments in one transaction.
 
-<figure><img src="../../.gitbook/assets/7 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ( 3 ) Click " Repay All Debt " to completely repay all selected loans.
 
-<figure><img src="../../.gitbook/assets/8 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Check "Selected Loans", check "Total Repay Amount", click "Confirm Repay"
 
@@ -48,7 +48,7 @@ Your wallet will pop up, confirm your account, click "Bitcoin", click "Loans". T
 
 Click three dots next to “Borrow”, click"Withdraw Collateral"
 
-<figure><img src="../../.gitbook/assets/11 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11 (2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 6. Your wallet will pop up, confirm your account,click "Bitcoin", click "NFT" and you will find your ordinals back to your wallet.
 
