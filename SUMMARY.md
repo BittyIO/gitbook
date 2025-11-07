@@ -32,6 +32,7 @@
     * [Withdraw money & interests](user-guides/lenders/lender-withdraw-money.md)
   * [Liquidators](user-guides/liquidators/README.md)
     * [Trigger liquidation](user-guides/liquidators/liquidator-trigger-liquidation.md)
+    * [Tigger an auction as the first bidder (ETH)](user-guides/liquidators/tigger-an-auction-as-the-first-bidder-eth.md)
     * [Offer higher auction bid](user-guides/liquidators/liquidator-join-the-auction.md)
     * [Get the collateral as auction winer](user-guides/liquidators/auction-winner-get-the-collateral.md)
 * [Risk](risk/README.md)
