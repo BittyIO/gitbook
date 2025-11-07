@@ -29,7 +29,7 @@
     * [Redeem when auction started](user-guides/borrowers/borrower-redeem-assets.md)
   * [Lenders](user-guides/lenders/README.md)
     * [Deposit money](user-guides/lenders/lender-deposit-money.md)
-    * [Withdraw money & interests](user-guides/lenders/lender-withdraw-money.md)
+    * [Withdraw money & interests (BTC)](user-guides/lenders/lender-withdraw-money.md)
   * [Liquidators](user-guides/liquidators/README.md)
     * [Trigger liquidation](user-guides/liquidators/liquidator-trigger-liquidation.md)
     * [Tigger an auction as the first bidder (ETH)](user-guides/liquidators/tigger-an-auction-as-the-first-bidder-eth.md)
