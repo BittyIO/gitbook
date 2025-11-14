@@ -2,7 +2,7 @@
 
 1\.    Visit the [Bitty.io](https://bitty.io/lending/ethereum/nft) website, connect your wallet in the top right corner.
 
-<figure><img src="../../.gitbook/assets/1 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 2\.    Click "Crypto”, check your "Wallet Balance".
 
@@ -10,7 +10,7 @@
 
 3\.    Choose the NFT to borrow against, click ”Borrow Against”, click “Borrow ETH”.
 
-<figure><img src="../../.gitbook/assets/3 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 4\.    You have two ways to choose the borrow amount:
 
@@ -34,11 +34,11 @@ or you can
 
 (4)  Click “ok”
 
-<figure><img src="../../.gitbook/assets/5 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 5\.    Your wallet will pop up, confirm your account, click "Loans", check the borrowed amount.
 
-<figure><img src="../../.gitbook/assets/9 (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9 (4) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 6\.    Click “Crypto”, check your "Wallet Balance", increased by 1 ETH.
 

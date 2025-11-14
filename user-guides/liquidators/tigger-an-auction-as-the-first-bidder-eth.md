@@ -24,4 +24,4 @@ Click “Liquidate”.
 
 6\.    Click “NFT”, check your wallet balance, increased by 1. The NFT from the auction comes to your wallet.&#x20;
 
-<figure><img src="../../.gitbook/assets/7 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (2) (1).jpg" alt=""><figcaption></figcaption></figure>

@@ -6,11 +6,11 @@
 
 2\.    Click "Loans”.
 
-<figure><img src="../../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 3\.    Click the three dots next to “Borrow Against”, click “Repay”.
 
-<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3).jpg" alt=""><figcaption></figcaption></figure>
 
 4\.    The “Repay” page will pop up, you can input the amount as you like.
 
@@ -18,7 +18,7 @@
 
 5\.    Input the "Amount", check “HF change after Repay”, check “Deft after repaid”, click “OK”.
 
-<figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 6\.    Your wallet will pop up, confirm your account, click "Loans", check the “Borrowed” amount, check the “Health Factor”.
 
@@ -26,7 +26,7 @@
 
 7\.    If you want to pay off, click the three dots next to “Borrow Against”, click “Repay”.
 
-<figure><img src="../../.gitbook/assets/7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 8\.    The “Repay” page will pop up, click “MAX”.
 
@@ -34,7 +34,7 @@
 
 9\.    Check “Amount”, you won’t have any debt after Repay, Debt after repaid is 0, click “OK”.
 
-<figure><img src="../../.gitbook/assets/9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9 (4).jpg" alt=""><figcaption></figcaption></figure>
 
 10\.   The loans will be cleared.
 
@@ -42,4 +42,4 @@
 
 11\.    Click “NFT”, check “Wallet Balance”, increased by 1. The NFT you repaid is back your wallet.
 
-<figure><img src="../../.gitbook/assets/11 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11 (1) (2).jpg" alt=""><figcaption></figcaption></figure>
