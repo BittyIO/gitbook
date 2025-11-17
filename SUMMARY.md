@@ -37,6 +37,7 @@
     * [Offer higher auction bid](user-guides/liquidators/liquidator-join-the-auction.md)
     * [Get the collateral as auction winer](user-guides/liquidators/auction-winner-get-the-collateral.md)
     * [Redeem your NFT in auction (ETH)](user-guides/liquidators/redeem-your-nft-in-auction-eth.md)
+    * [Avoid to be liquidated by repay (ETH)](user-guides/liquidators/avoid-to-be-liquidated-by-repay-eth.md)
 * [Risk](risk/README.md)
   * [Platform](risk/platform.md)
   * [Oracle manipulation](risk/oracle-manipulation.md)
