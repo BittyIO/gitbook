@@ -35,7 +35,7 @@
   * [Liquidators](user-guides/liquidators/README.md)
     * [Trigger liquidation](user-guides/liquidators/liquidator-trigger-liquidation.md)
     * [Tigger an auction as the first bidder (ETH)](user-guides/liquidators/tigger-an-auction-as-the-first-bidder-eth.md)
-    * [Offer higher auction bid](user-guides/liquidators/liquidator-join-the-auction.md)
+    * [Offer higher auction bid (BTC)](user-guides/liquidators/liquidator-join-the-auction.md)
     * [Bid in auction (ETH)](user-guides/liquidators/bid-in-auction-eth.md)
     * [Get the collateral as auction winer](user-guides/liquidators/auction-winner-get-the-collateral.md)
     * [Redeem your NFT in auction (ETH)](user-guides/liquidators/redeem-your-nft-in-auction-eth.md)
