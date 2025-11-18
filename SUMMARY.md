@@ -31,6 +31,7 @@
     * [Deposit money (BTC)](user-guides/lenders/lender-deposit-money.md)
     * [Deposit money (ETH)](user-guides/lenders/deposit-money-eth.md)
     * [Withdraw money & interests (BTC)](user-guides/lenders/lender-withdraw-money.md)
+    * [Withdraw mony & interests (ETH)](user-guides/lenders/withdraw-mony-and-interests-eth.md)
   * [Liquidators](user-guides/liquidators/README.md)
     * [Trigger liquidation](user-guides/liquidators/liquidator-trigger-liquidation.md)
     * [Tigger an auction as the first bidder (ETH)](user-guides/liquidators/tigger-an-auction-as-the-first-bidder-eth.md)
